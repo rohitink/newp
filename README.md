@@ -1,0 +1,2 @@
+# newp
+Newp WordPress Theme
