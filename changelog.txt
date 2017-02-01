@@ -1,24 +1,23 @@
 ChangeLog
 =========
 
+Version 2.0
 
-Version 0.9*
-
-	i) Initial Release.
-
-Version 0.91
-
-	i) Pre Release bug Fixes.
+	i) Major Update
+	ii) Slider Supported via plugin.
+	iii) BUilt on Bootstrap
+	iv) Frameworks Upgraded
+	v) Style Refined
 	
-Version 0.92
+Version 2.0.1
 
-	i) Removed extra bootstrap.js files
-	ii) Fixed header image issue.
-	iii) Added Correct Theme URI and link.
-	iv) Some other minor fixes.	
+	i) Minor Bug Fixes.
+	ii) Removed Redundant settings.
 	
-Version 1.0
+Version 2.0.2
 
-	i) Footer and Header Display issues fixed.
-	ii) Bottom menu now shows up only if set.
-		
+	i) Remove Github generate licence/readme files.		
+	
+Version 2.0.3
+
+	i) Updated Font Awesome	
